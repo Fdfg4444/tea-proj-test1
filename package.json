@@ -1,6 +1,6 @@
 {
   "name": "tea-proj-test1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tetnet tea",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "crypto-yeldi": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "tea-bepbop": "1.0.1"
   },
   "author": "",
   "license": "ISC",
